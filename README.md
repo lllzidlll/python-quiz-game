@@ -118,3 +118,7 @@ python-quiz-game/
 
 ### Git 커밋 기록
 ![Git 기록](docs/screenshots/09_git_log_graph.png)
+
+
+## 8. Git 실습 기록
+- clone으로 복제한 저장소에서 수정한 뒤 push하고, 원래 작업 폴더에서 pull로 받아왔습니다.
