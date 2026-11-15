@@ -115,3 +115,6 @@ python-quiz-game/
 
 ### 재실행 후 데이터 유지
 ![재실행](docs/screenshots/08_restart.png)
+
+### Git 커밋 기록
+![Git 기록](docs/screenshots/09_git_log_graph.png)
