@@ -90,3 +90,28 @@ python-quiz-game/
     "best_score": 80
 }
 ```
+
+## 7. 실행 화면
+
+### 개발 환경
+![VS Code](docs/screenshots/01_env_vscode.png)
+
+![Python·Git 버전](docs/screenshots/02_env_python_git.png)
+
+### 메뉴
+![메뉴](docs/screenshots/03_menu.png)
+
+### 잘못된 입력 처리
+![잘못된 입력](docs/screenshots/04_invalid_input.png)
+
+### 퀴즈 추가
+![퀴즈 추가](docs/screenshots/05_add_quiz.png)
+
+### 퀴즈 풀기
+![퀴즈 풀기](docs/screenshots/06_play.png)
+
+### 점수 확인
+![점수 확인](docs/screenshots/07_score.png)
+
+### 재실행 후 데이터 유지
+![재실행](docs/screenshots/08_restart.png)
